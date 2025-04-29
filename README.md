@@ -14,7 +14,16 @@
 
 tem muita coisa ainda, só que eu não me lembro😅.
 
-## Minhas redes sociais
+## estou aprendendo a usar:
+<div style="display:inline-block">
+<img height=45 src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>
+<img height=45 src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/css3/css3-original-wordmark.svg"/>
+ <img height=45 src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/html5/html5-original.svg"/>
+  
+</div>
+<img height= 50 align=right src="https://i.pinimg.com/originals/bd/b1/f2/bdb1f2848d8546d50e82c4ffd43b786f.gif"/>
+
+## Meu instagram.
 
  [![Image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jm_m4t3us/?next=%2F)
 
