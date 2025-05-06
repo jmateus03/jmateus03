@@ -10,7 +10,7 @@
 - ouvir musicas;
 - jogar videogame;
 - aprender coisas novas;
-- viajar;.
+- viajar.
 
 tem muita coisa ainda, só que eu não me lembro😅.
 
