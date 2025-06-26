@@ -6,7 +6,7 @@
 <img width=384 heigth=384 align="right" src="https://i.pinimg.com/originals/b8/a4/97/b8a497c6f5fea075057190ef36534dd9.gif"/>
 
 - Jogar basquete;
-- assitir animes;
+- assistir animes;
 - ouvir musicas;
 - jogar videogame;
 - aprender coisas novas;
