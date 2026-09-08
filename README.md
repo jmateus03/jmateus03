@@ -1,20 +1,18 @@
 # Eai parceiro,show?!👍
-**Meu nome é João Mateus, Estudo na EEEP Deputado Roberto Mesquita, sinta-se a vontade para explorar meu portifólio.😃👍**
+**Meu nome é João Mateus, estudo na EEEP Deputado Roberto Mesquita, sinta-se a vontade para explorar meu portifólio.😃👍**
 
 
 ## Gosto de:
 <img width=384 heigth=384 align="right" src="https://i.pinimg.com/originals/b8/a4/97/b8a497c6f5fea075057190ef36534dd9.gif"/>
 
 - Jogar basquete;
-- assistir animes;
-- ouvir musicas;
-- jogar videogame;
-- aprender coisas novas;
-- viajar.
+- Assistir animes;
+- Ouvir musicas;
+- Jogar videogame;
+- Aprender coisas novas;
+- Viajar.
 
-tem muita coisa ainda, só que eu não me lembro😅.
-
-## experiencia em:
+## Experiencia em:
 <div style="display:inline-block">
  
 <img height=50 src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg"/>
