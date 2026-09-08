@@ -16,13 +16,16 @@ tem muita coisa ainda, só que eu não me lembro😅.
 
 ## experiencia em:
 <div style="display:inline-block">
+ 
 <img height=50 src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg"/>
 <img height=50 src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/HTML.svg"/>
- <img height=50 src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CSS.svg"/>
+<img height=50 src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CSS.svg"/>
+<img height=50 src="https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/react/react-original.svg"/>
+<img height=50 src="https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/supabase/supabase-original.svg"/>
   
 </div>
 <img height= 50 align=right src="https://i.pinimg.com/originals/bd/b1/f2/bdb1f2848d8546d50e82c4ffd43b786f.gif"/>
-<img height= 200 align=right src="https://64.media.tumblr.com/4517c677144b786d586568b5195c057c/5dfb52c79a83fdf4-9f/s640x960/a563e41fd37b9aa4c6514ca2b8a0a02263a022e7.gif"/>
+<img height= 150 align=right src="https://64.media.tumblr.com/4517c677144b786d586568b5195c057c/5dfb52c79a83fdf4-9f/s640x960/a563e41fd37b9aa4c6514ca2b8a0a02263a022e7.gif"/>
 
 ## Meu instagram.
 
