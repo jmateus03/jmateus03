@@ -10,9 +10,8 @@
 - Ouvir musicas;
 - Jogar videogame;
 - Aprender coisas novas;
-- Viajar.
-
-  
+- Viajar;
+- Cozinhar.
 
 ## Experiencia em:
 <div style="display:inline-block">
