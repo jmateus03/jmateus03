@@ -14,7 +14,7 @@
 
 tem muita coisa ainda, só que eu não me lembro😅.
 
-## estou aprendendo a usar:
+## experiencia em:
 <div style="display:inline-block">
 <img height=50 src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg"/>
 <img height=50 src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/HTML.svg"/>
