@@ -12,6 +12,8 @@
 - Aprender coisas novas;
 - Viajar.
 
+  
+
 ## Experiencia em:
 <div style="display:inline-block">
  
